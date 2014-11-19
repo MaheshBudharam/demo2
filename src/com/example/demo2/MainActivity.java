@@ -8,7 +8,6 @@ public class MainActivity extends Activity
 {
 	int a=10;
 	
-	int b;
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState)
